@@ -112,6 +112,7 @@ export default function Home() {
               Deploy <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
+              Final Preparation Online Church and Ministries under scheduled maintainance.
               Instantly deploy your Next.js site to a shareable URL
               with&nbsp;Vercel.
             </p>
